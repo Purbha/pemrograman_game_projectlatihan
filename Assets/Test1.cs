@@ -2,14 +2,13 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Latihan6 : MonoBehaviour
+public class Test1 : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
     {
-        //Local Variable
-        string kalimat = "Ini adalah Local Variable"; 
-        Debug.Log("1: " + kalimat);   
+        Debug.Log("Okesip");
+        
     }
 
     // Update is called once per frame
